@@ -62,11 +62,11 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Bijay-Shre-stha&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="200" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bijay-Shre-stha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
