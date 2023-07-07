@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bijay Shrestha <br> I'm a Computer Science Student 💻<br>Currently from Kathmandu, Nepal</h2>
+<h2 align="center">Hi 👋! My name is Bijay Shrestha🙂 <br> I'm a Computer Science Student 💻<br>Currently from Kathmandu, Nepal</h2>
 
 ###
 
