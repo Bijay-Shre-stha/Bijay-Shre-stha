@@ -60,14 +60,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+</div>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -75,6 +74,7 @@
 ###
 
 <div align="center">
+  
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bijay-Shre-stha.Bijay-Shre-stha&"  />
 </div>
 
