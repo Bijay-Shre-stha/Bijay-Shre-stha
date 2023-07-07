@@ -68,6 +68,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bijay-Shre-stha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+
 ###
 
 <div align="center">
