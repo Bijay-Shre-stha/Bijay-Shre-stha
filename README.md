@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/bijay.stha.3139/">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" border-radius: 30px alt="facebook logo"  />
     </a>
 
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTWDQgGFlhcTQGpXgBmVWwtPJjQGbNmJkGZnxQWJRbgKqlfQQqfbFpTJwBjCZcjRZHxV">
