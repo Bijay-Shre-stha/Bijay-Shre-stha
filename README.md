@@ -66,14 +66,17 @@
 
 ###
 <div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
 
 ###
 
