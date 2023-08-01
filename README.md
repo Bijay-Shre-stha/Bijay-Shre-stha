@@ -32,6 +32,7 @@
 </div>
 
 ###
+<h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
@@ -61,6 +62,12 @@
   <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 </div>
 
 
