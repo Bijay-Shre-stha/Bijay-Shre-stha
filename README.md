@@ -6,6 +6,11 @@
 
 
 ###
+<div align="center">
+  Navigating the Digital Expanse 🚀 | Crafting Code with Purpose 💻 | Eternal Student 📚 | 🌐 Uniting the Points | Pioneering for the Future ⚙️
+</div>
+
+###
 
 <br clear="both">
 
