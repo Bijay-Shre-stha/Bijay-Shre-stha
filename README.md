@@ -99,6 +99,6 @@
 ###
 
 <div align="center">
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bijay-Shre-stha.Bijay-Shre-stha&"  />
-###
+
+[![](https://visitcount.itsvg.in/api?id=Bijay-Shre-stha&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
