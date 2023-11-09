@@ -1,12 +1,3 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Inter&family=Merriweather:ital,wght@1,700&family=Playpen+Sans:wght@300&family=Poppins:wght@200;300;500&display=swap');
-
-body {
-    font-family: 'Playpen Sans', cursive;
-    background-color: #f0f0f0;
-    margin: 0;
-    padding: 0;
-}</style>
 <h2 align="center">Hi 👋! My name is Bijay Shrestha🙂 <br> I'm a Computer Science Student 💻<br>Currently from Kathmandu, Nepal 📌</h2> <br>
 <div align="center">
 <h4>Navigating the Digital Expanse 🚀 | Crafting Code with Purpose 💻 | Eternal Student 📚 |  Uniting the Points 🌐
