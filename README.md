@@ -1,45 +1,34 @@
-<h2 align="center">Hi 👋! My name is Bijay Shrestha🙂 <br> I'm a Computer Science Student 💻<br>Currently from Kathmandu, Nepal 📌</h2> <br>
-<div align="center">
-<h4>Navigating the Digital Expanse 🚀 | Crafting Code with Purpose 💻 | Eternal Student 📚 |  Uniting the Points 🌐
-</h4>
-</div>
+<h1 align="center">Hi there! 👋 I'm Bijay Shrestha 😊</h1>
+<h3 align="center">Computer Science Student from Kathmandu, Nepal 🌍</h3>
 
 <div align="center">
-  <img height="300" width="auto" src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" alt="image"  />
+  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" height="300" alt="Profile Image" />
 </div>
 
-
-###
-
-<br clear="both">
+<h4 align="center">Navigating the Digital Expanse 🚀 | Crafting Code with Purpose 💻 | Eternal Student 📚 | Uniting the Points 🌐</h4>
 
 <div align="center">
   <a href="https://www.facebook.com/bijay.shrestha.0817/">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35"  alt="facebook logo"  />
-    </a>
-
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrhTWDQgGFlhcTQGpXgBmVWwtPJjQGbNmJkGZnxQWJRbgKqlfQQqfbFpTJwBjCZcjRZHxV">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-
   <a href="https://www.instagram.com/bijay_shrestha_0817/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-
   <a href="https://www.linkedin.com/in/bijay-shrestha-771b66225/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-
   <a href="https://twitter.com/Bijay_Sh0817">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
   </a>
 </div>
 
-###
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="center">🛠 Language and Tools</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+ <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="12" />
@@ -76,25 +65,22 @@
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
   <img width="12" />
 
-
 </div>
 
-
-###
 <div align="center">
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-[![Bijay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bijay-Shre-stha&theme=radical&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![Bijay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bijay-Shre-stha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
-
-###
 
 <div align="center">
 
