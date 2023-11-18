@@ -79,10 +79,11 @@
 
 ## Days I Code
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{borderRadius: "20px"}} width="100%" alt=""/>
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/> 
+</div>
 
 ## 🏆 GitHub Trophies
 
