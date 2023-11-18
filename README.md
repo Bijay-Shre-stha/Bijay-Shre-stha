@@ -76,14 +76,13 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 [![Bijay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
-<section className="contactinf">
-     <h4>Days I Code</h4>
-</section>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{borderRadius: "20px"}} width="100%" alt=""/>
-<div style={{display: "flex", justifyContent: "center", alignItems: "center"}}>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=dark" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/> 
-</div>
+
+## Days I Code
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=redical)
 
 ## 🏆 GitHub Trophies
 
