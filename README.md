@@ -84,7 +84,7 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=radical" alt=""/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius:"20px", margin: "10px"}} width="50%" alt=""/>
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>  -->
 </div>
 
