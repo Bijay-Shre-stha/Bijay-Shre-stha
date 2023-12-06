@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/bijay_shrestha_0817/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/bijay-shrestha-771b66225/">
+  <a href="www.linkedin.com/in/bijayshrestha0817">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/Bijay_Sh0817">
