@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/bijayshrestha0817">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/Bijay_Sh0817">
+  <a href="https://twitter.com/bijay_stha_0817">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
   </a>
 </div>
