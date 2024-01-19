@@ -97,5 +97,6 @@
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Bijay-Shre-stha&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=bijay-shre0stha&&style=flat-square" align="center" />
 
 </div>
