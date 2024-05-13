@@ -88,10 +88,6 @@
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>  -->
 </div>
 
-## 📖 Daily.Dev
-<div  style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://app.daily.dev/zerox0817"><img src="https://api.daily.dev/devcards/13de02b5e73f417aa4b6c3a998dc64d6.png?r=p3b" width="400" alt="Bijay Shrestha's Dev Card"/></a>
-</div>
 
 ## 🏆 GitHub Trophies
 
