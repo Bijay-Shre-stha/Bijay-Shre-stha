@@ -72,20 +72,22 @@
 
 <div align="center">
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijay-Shre-stha&theme=radical&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/> -->
 [![Bijay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
 
-## Days I Code
+## 📅 Days I Code
 
-<div style="display: flex; justify-content: center; align-items: center;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bijay-Shre-Stha&show_icons=true&theme=radical" alt=""/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius:"20px", margin: "10px"}} width="50%" alt=""/>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bijay-Shre-Stha&show_icons=true&theme=radical" style={{ borderRadius: "20px", margin: "10px"}} width="50%" alt=""/>  -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijay-shre-stha&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bijay-shre-stha&theme=radical"/>
+
 </div>
 
 
