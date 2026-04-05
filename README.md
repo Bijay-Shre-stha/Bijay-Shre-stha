@@ -76,6 +76,7 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br -->
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Bijay-Shre-stha&theme=radical&hide_border=true)<br/>
+<img src="https://streak-stats.demolab.com/?user=Bijay-Shre-stha&theme=radical&hide_border=true" alt="GitHub Streak" />
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Shre-stha&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/> -->
 [![Bijay's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bijay-shre-stha&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr/>
