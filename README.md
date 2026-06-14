@@ -93,7 +93,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy-kannan.vercel.app/?username=bijay-shre-stha&theme=radical&count_private=true&include_all_commits=true&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://trophygithubreadmelang.cybee.dpdns.org/?username=bijay-shre-stha&theme=radical&count_private=true&include_all_commits=true&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
