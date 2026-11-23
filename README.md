@@ -1,8 +1,10 @@
 <h1 align="center">Hi there! 👋 I'm Bijay Shrestha</h1>
-<h3 align="center">Full-Stack Developer | B.Sc. CSIT Student at Deerwalk Institute of Technology</h3>
+<h3 align="center">Full-Stack Developer | B.Sc. CSIT Student</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/113350806/236842414-18101a37-92f5-4de7-a46d-eeaca6e16cbd.gif" height="250" alt="Profile animation" />
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
+       height="300"
+       alt="Profile animation"/>
 </div>
 
 <h4 align="center">
